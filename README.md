@@ -1,2 +1,17 @@
-# spam-email-classifier
-Spam Email Classifier using TF-IDF Vectorizer and Naive Bayes (scikit-learn)
+# Spam Email Classifier
+
+This project uses:
+- TF-IDF Vectorizer
+- Naive Bayes Algorithm
+- scikit-learn
+
+## How to Run
+
+1. Install required libraries:
+   pip install pandas scikit-learn
+
+2. Run:
+   python spam_classifier.py
+
+## Author
+Sai Pranavi Gorla
